@@ -4,14 +4,13 @@ import { getFirestore} from 'firebase/firestore';
 import { getDatabase} from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD4UvosjCOmBVgpwgXc9ox4BTR2V0imSmY",
-  authDomain: "gasable-3738e.firebaseapp.com",
-  databaseURL: "https://gasable-3738e-default-rtdb.firebaseio.com",
-  projectId: "gasable-3738e",
-  storageBucket: "gasable-3738e.firebasestorage.app",
-  messagingSenderId: "794716070371",
-  appId: "1:794716070371:web:835ba8720377a09ad640d6",
-  measurementId: "G-F88P7B5192"
+   apiKey: "AIzaSyDLCDJR1nhyxXeJ4_W2-SHjBvBmBBS_1U0",
+  authDomain: "dggdsd-ac173.firebaseapp.com",
+  projectId: "dggdsd-ac173",
+  storageBucket: "dggdsd-ac173.firebasestorage.app",
+  messagingSenderId: "436657489509",
+  appId: "1:436657489509:web:4f2621806c2865c019688c",
+  measurementId: "G-H78F108XPE"
 };
 
 
