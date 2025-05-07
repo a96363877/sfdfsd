@@ -492,7 +492,7 @@ export default function NotificationsPage() {
               <div className="bg-primary/10 p-2 rounded-full">
                 <Bell className="h-6 w-6 text-primary" />
               </div>
-              <h1 className="text-xl font-bold tracking-tight">لوحة الغاز وزبي</h1>
+              <h1 className="text-xl font-bold tracking-tight">لوحة زين </h1>
             </div>
             <div className="flex items-center gap-3">
               <TooltipProvider>
